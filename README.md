@@ -17,8 +17,8 @@ Watson Assistent
 
 Grupo Soluza
 
-Bruno do Nascimento Castro / RM: 82099
-Havner Menezes Almeida     / RM: 83103
-Layon Xavier Guimarães     / RM: 82155
-Thalles Yan Feige          / RM: 83150
+Bruno do Nascimento Castro RM: 82099 |
+Havner Menezes Almeida     RM: 83103 |
+Layon Xavier Guimarães     RM: 82155 |
+Thalles Yan Feige          RM: 83150 |
 
